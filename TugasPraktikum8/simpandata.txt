@@ -1,0 +1,4 @@
+Nama Mahasiswa:	 R
+Rata-rata:	null
+Grade:	null
+Hasil:	null
